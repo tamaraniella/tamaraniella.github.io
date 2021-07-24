@@ -1,12 +1,12 @@
 ---
 title: "Nudging cooperation in a crowd experiment."
 collection: publications
-permalink: /publication/2016-01-21-plos
+permalink: /publication/2016-01-21-plos-paper
 excerpt: 'We examine the hypothesis that driven by a competition heuristic, people don't even reflect or consider whether a cooperation strategy may be better (zero-sum game fallacy). We demonstrate that people only cooperate if the competitive heuristic is explicitly overridden.'
-date: 2016-01-21
+date: 2017-01-21
 venue: 'PLoS ONE'
 paperurl: 'https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0147125'
-citation: '<b>Niella, T.</b>, Stier-Moses, N., & Sigman, M. (2016). &quot;Nudging cooperation in a crowd experiment.&quot; <i>PLoS ONE</i>, 11(1), e0147125.'
+citation: 'Niella, T., Stier-Moses, N., & Sigman, M. (2016). &quot;Nudging cooperation in a crowd experiment.&quot; <i>PLoS ONE</i>, 11(1), e0147125.'
 ---
 
 <b>Abstract</b> 
