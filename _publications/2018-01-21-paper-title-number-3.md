@@ -1,9 +1,9 @@
 ---
 title: "Nudging cooperation in a crowd experiment."
 collection: publications
-permalink: /publication/2016-01-21-paper-title-number-3
+permalink: /publication/2018-01-21-paper-title-number-3
 excerpt: 'We examine the hypothesis that driven by a competition heuristic, people don't even reflect or consider whether a cooperation strategy may be better. We demonstrate that people only cooperate if the competitive heuristic is explicitly overridden.'
-date: 2016-01-21
+date: 2018-01-21
 venue: 'PLoS ONE'
 paperurl: 'http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0147125'
 citation: 'Niella, T., Stier-Moses, N., & Sigman, M. (2016). &quot;Nudging cooperation in a crowd experiment.&quot; <i>PLoS ONE</i>, 11(1), e0147125.'
