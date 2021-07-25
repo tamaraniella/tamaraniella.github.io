@@ -9,9 +9,6 @@ main:
   - title: "Research"
     url: /research/ 
     
-  - title: "Human Rights"
-    url: /human-rights/
-    
   - title: "Talks"
     url: /talks/    
 
