@@ -9,6 +9,18 @@ author_profile: true
 
 In Progress
 ======
+
+### Moral hypocrisy and climate change mitigation support
+<i>Tamara Niella, Joaquin Navajas, Ophelia Deroy</i> 
+
+In this project, we propose that climate inactivism is associated with different moral responses to the climate crisis. In particular, we hypothesize that people’s sensitivity to moral hypocrisy drives climate inactivism. Therefore we want to compare how different levels of environmental values and climate change mitigation policies' support, predict people's moral condemnation of environmental hipocrisy compared to condemnation of simple environmental transgression. 
+
+### Cues to trustworthiness : The Expert/Laymen problem
+<i>Justin Sulik, Tamara Niella, Ophelia Deroy, Gloria Origgi</i> 
+
+In this project, we aim to answer the following questions: What are the most relevant cues people use to assess expertise in a field they do not have any first-hand knowledge about? Can we test them? How should we display second-order information about experts to facilitate the acknowledgment of the appropriate expertise?
+
+
 ### Polarizing conversations: Live versus imagined, and their effect on our willingness to communicate
 <i>Tamara Niella, Joaquin Navajas, Sara D. Hodges</i> 
 
