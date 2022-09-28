@@ -14,7 +14,7 @@ You can find my full CV [here](http://tamaraniella.github.io/files/Niella_CV2022
 
 Education
 ======
-* Ph.D in Social Psychology, University of Oregon (United States), 2022 (expected)
+* Ph.D in Social Psychology, University of Oregon (United States), 2023 (expected)
 * M.S. in Social Psychology, University of Oregon (United States), 2020
 * B.S. in Economics, Universidad Torcuato Di Tella (Argentina), 2016
 * International Fellowship Class, Friederich Schiller Gymnasium (Germany), 2011
