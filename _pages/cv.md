@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-You can find my full CV [here](http://tamaraniella.github.io/files/niella_CV_May2021.pdf)
+You can find my full CV [here](http://tamaraniella.github.io/files/Niella_CV2022.pdf)
 
 
 Education
@@ -33,6 +33,7 @@ Skills
 
 Awards
 ======
+* Visiting Fellow, Center for Advanced Studies at the Ludwig-Maximilians Universität München, 2022
 * Gary E. Smith Professional Development Award, University of Oregon, 2020
 * A Community for Minorities in STEM Travel Award, University of Oregon, 2020
 * Oxford Consortium for Human Rights Fellow, University of Oxford, 2019
